@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Skill 测试产物
+skill-test-*/
+evals/
+
+# 个人配置
+.env
+*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 打包产物
+*.skill
+*-skillhub.zip
